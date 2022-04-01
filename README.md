@@ -12,3 +12,10 @@ https://danielsarmento.github.io/Landingpage-Ballerini/
   
 LandingPage para treinar novos conhecimentos no CSS.
 Neste arquivo treinei os conceitos de flexbox, divisões em containers, pesquisa de cores a partir de imagem já pronta, além de fonts de texto.
+<p align="left">
+  💌 Envie aqui uma mensagem para mim: ⤵️
+</p>
+
+<p align="left">
+
+ <a href="https://www.linkedin.com/in/danielsarmentodossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
